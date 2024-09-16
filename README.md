@@ -1,7 +1,11 @@
-# Become a Phishing and Cybersecurity Expert with the Evilginx Training Course!
+<div align="center">
+  <h1>Evilginx Training Course</h1>
+</div>
+
 
 
 ![banner](http://shop.fluxxset.com/wp-content/uploads/2024/08/Evilginx_course.png)
+
 
 [![Full course here](https://img.shields.io/badge/Full_course_here-Click_me-brightgreen)](https://shop.fluxxset.com/product/evilginx-training-course/)
 
